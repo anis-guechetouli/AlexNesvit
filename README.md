@@ -1,136 +1,111 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
-<br>-->
-# <div align="center">🟣 Alex NESVIT 🇺🇦 🇫🇷 💻 🪂🟣 </div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;FullStack+/+PHP;Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30&color=754EF9">
+<img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD35FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anis+Guechetouli" alt="Typing SVG" style="display:block; margin: 0 auto;" />
+</a>
+
+<h3 align="center">Passionate about computers</h3>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/63114141?s=64&v=4" alt="Profile Picture" width="64" height="64">
+  <h3>Student at 42 Paris</h3>
+</div>
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+<div align="center">
+  <h2><strong>Socials and Coding Profiles 💻</strong></h2>
+  <br><br>
+  <a href="https://www.linkedin.com/in/anis-guechetouli-583b79286">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</h1>
-
----
-
-## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Fullstack / PHP <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
-## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> La Ciotat, France</div>
-
-
-## <div align="center">☕ Support Me
-<p>
-<div align="center"><a href="https://www.buymeacoffee.com/alexnesvit" target="_blanc"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
-</p>
+  <a href="mailto:anisguechetouli5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
- ---
-### Holding a Master's degree in Business Economics 🎓 and a Professional Certificate in Web Development Full-Stack🏆, I am deeply passionate about programming 💻. Skilled in both Front-end and Back-end technologies, and always eager to learn new things. I can also beautifully design and craft your profile GITHUB, creating custom [Portfolio](https://alexnesvit.github.io/portfolio/), creating custom [websites](https://web-planet.net) and Personal digital [Business Card](https://card.alexnesvit.com/). 
-<!--Beyond the realm of coding 👨🏻‍💻, I also enjoy various sports activities such as [skydiving 🪂](https://youtu.be/sqqgCOtTZSM?si=57QVnAlf-MqfBaXK) and running 🏃🏻‍♂️. Another one of my hobbies is capturing the beauty of nature through drone filming 📹, and I love the post-production editing process [look my video here](https://www.youtube.com/watch?v=XJzFNiSS-AI). My passion lies in creating engaging and dynamic web projects. Welcome to my page and thank you for your support!
-### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser [le montage par la suite voir ici](https://www.youtube.com/watch?v=XJzFNiSS-AI). J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Ma passion réside dans la réalisation de projets web captivants et dynamiques. -->
-
-<p align="center">
- <img width="800" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Skills:
-  </div>
-
-<div align="center"> 
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="50" height="50" alt="Laravel" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
- <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />&nbsp;
- <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
- <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
- <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
- <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
- <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
- <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
-</div>
-
----
-
-## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"> Tools:
-  </div>
+<br><br>
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="fwebstorm" alt="webstorm" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="phpstorm" alt="phpstorm" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="45" height="45"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="ftrello" alt="trello" width="45" height="45"/>&nbsp;
+  <h2><strong>Languages, Tools and Technologies 🚀</strong></h2>
+  <br>
+  <table>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=c,python,java,html,css&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=php&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Database Technologies</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Developer Tools</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,vim,idea&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Operating System</strong></td>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
+    </tr>
+  </table>
 </div>
 
----
-
-## <div align="center">Codewars Stats:</div>
+<br><br>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/AlexNesvit/badges/large" alt="Codewars Stats">
+  <h3><strong>Github Analytics ⚙️</strong></h3>
+  <br>
+  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center">
+          <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+        </th>
+      </tr>
+      <tr>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient">
+            <img src="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" alt="Top Languages" />
+        </th>
+      </tr>
+    </thead>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://i.imgur.com/x1KbuCq.gif" width="500" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## <div align="center">🌱 Social Networks:
+<div align="center">
+    [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=6783692a31d343f4)
   </div>
+  
+  
 
- <div id="badges" align="center">
-    <a href="https://www.github.com/AlexNesvit" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/alexnesvit" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>&nbsp;
-    <a href="https://www.youtube.com/@MetlaAlex" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>&nbsp;
-  </div>
-
----
-
-## <div align="center">⚙️ GitHub Profile Stats:
-  </div>
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNesvit&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNesvit&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
-
-<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
--->
-&nbsp;<div align="center">
- [![website](https://img.shields.io/badge/website-informational)](https://card.alexnesvit.com/)
- ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
- <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
- ![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
- ![status](https://img.shields.io/badge/status-up-brightgreen)
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
-</div>
-
-
-
+<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
